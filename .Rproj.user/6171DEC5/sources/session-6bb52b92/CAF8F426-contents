@@ -1,0 +1,4 @@
+_site/
+videos/
+*.mp4
+.DS_Store
