@@ -1,0 +1,111 @@
+---
+title: ""
+---
+
+<div class="center">
+
+# Lola Hertsenberg
+
+![](images/profile.jpg){.profile-img}
+
+[💼 LinkedIn](https://www.linkedin.com/in/lolaherts){target="_blank"}  
+[📧 Email](mailto:lohertsenberg@gmail.com)  
+[🐙 GitHub](https://github.com/lolaherts){target="_blank"}
+
+</div>
+
+## About Me
+
+Hi! I am a Cal Poly Pomona student interested in marketing analytics and media in the sports and entertainment industries. This portfolio showcases projects that demonstrate my skills in strategic marketing, data analysis, multimedia storytelling, and professional communication.
+
+---
+
+## Career Objective
+
+I am interested in roles where I can use data to understand customers, evaluate marketing performance, and support multimedia projects and initiatives.
+
+---
+
+## Education
+
+**California State Polytechnic University, Pomona**
+
+Bachelor of Science in Business Administration  
+**Option:** Marketing Management  
+**Minor:** Multimedia Journalism  
+
+**Expected Graduation:** May 2027
+
+---
+
+## Technical Skills
+
+### Marketing
+- Marketing Strategy
+- Digital Marketing
+- Social Media Marketing
+- Google Analytics
+
+### Analytics
+- R
+- RStudio
+- Quarto
+- Data Visualization
+
+### Software
+- GitHub
+- Canva
+- Microsoft Excel
+- Microsoft PowerPoint
+- Microsoft Word
+- Adobe Express
+
+---
+
+## Featured Areas
+
+-  Marketing Analytics
+-  Digital Marketing
+-  Multimedia Journalism
+-  Brand Development
+-  Content Creation
+-  Sports & Entertainment Marketing
+
+
+---
+
+# Featured Projects {.center}
+
+::: {.columns}
+
+::: {.column width="33%"}
+
+### ⚾ AAA Baseball Team Branding
+
+Developed a complete brand identity and promotional campaign for a fictional AAA baseball franchise.
+
+[View Project](projects.qmd)
+
+:::
+
+::: {.column width="33%"}
+
+### ⚖️ Bay Law Marketing Initiative
+
+Created a comprehensive marketing strategy for a Nevada injury law firm focused on SEO, digital marketing, and customer acquisition.
+
+[View Project](projects.qmd)
+
+:::
+
+::: {.column width="33%"}
+
+### 🎥 CPP IBW Multimedia Story
+
+Produced a multimedia journalism story using written reporting, photography, and video.
+
+[View Project](projects.qmd)
+
+:::
+
+:::

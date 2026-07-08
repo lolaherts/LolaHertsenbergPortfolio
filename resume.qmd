@@ -1,0 +1,46 @@
+---
+title: ""
+---
+# Resume
+
+This page highlights my education, professional experience, project experience, leadership, and technical skills.
+
+## Education
+
+**California State Polytechnic University, Pomona**  
+Bachelor of Science in Business Administration - Marketing Management  
+Minor: Communications - Multimedia Journalism  
+Expected Graduation: May 2027
+
+## Professional Focus
+
+- Marketing Strategy
+- Customer Acquisition
+- Brand Positioning
+- Audience Segmentation
+- Influencer Strategy
+- Performance Marketing
+- Multimedia Storytelling
+
+## Technical Skills
+
+- Adobe Creative Suite
+- Canva
+- CapCut
+- Figma
+- Google Workspace
+- Microsoft Excel
+- Tableau
+- Quarto
+- GitHub
+
+## Resume PDF
+
+<iframe
+  src="files/2026resume.pdf"
+  width="100%"
+  height="900"
+  style="border:none;">
+</iframe>
+
+[Download Resume](files/2026resume.pdf)
