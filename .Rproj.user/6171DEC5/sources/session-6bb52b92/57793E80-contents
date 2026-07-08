@@ -17,16 +17,15 @@ This portfolio was built using:
 
 ## Analytics Dashboard
 
-Google Analytics is connected to this website to monitor:
-
-- Website visitors
-- Page views
-- Traffic sources
-- Device usage
-- Visitor locations
-- Engagement over time
-
-As traffic grows, this page will be updated with screenshots and summaries of visitor trends.
+<iframe
+  width="100%"
+  height="800"
+  src="https://datastudio.google.com/embed/reporting/edf69798-0c58-45f4-abc0-53d76c7d3dbc/page/RzN3F"
+  frameborder="0"
+  style="border:0"
+  allowfullscreen
+  sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox">
+</iframe>
 
 ## Future Goals
 

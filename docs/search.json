@@ -4,7 +4,7 @@
     "href": "analytics.html",
     "title": "Website Analytics",
     "section": "",
-    "text": "This page provides insights into the performance and audience engagement of my portfolio website.\n\n\nThis portfolio was built using:\n\nQuarto\nRStudio\nGitHub\nGitHub Pages\n\n\n\n\nGoogle Analytics is connected to this website to monitor:\n\nWebsite visitors\nPage views\nTraffic sources\nDevice usage\nVisitor locations\nEngagement over time\n\nAs traffic grows, this page will be updated with screenshots and summaries of visitor trends.\n\n\n\n\nIncrease portfolio traffic through SEO\nTrack the most visited projects\nMonitor engagement from recruiters and employers\nImprove user experience based on visitor behavior"
+    "text": "This page provides insights into the performance and audience engagement of my portfolio website.\n\n\nThis portfolio was built using:\n\nQuarto\nRStudio\nGitHub\nGitHub Pages\n\n\n\n\n\n\n\n\n\n\nIncrease portfolio traffic through SEO\nTrack the most visited projects\nMonitor engagement from recruiters and employers\nImprove user experience based on visitor behavior"
   },
   {
     "objectID": "analytics.html#about-this-website",
@@ -12,13 +12,6 @@
     "title": "Website Analytics",
     "section": "",
     "text": "This portfolio was built using:\n\nQuarto\nRStudio\nGitHub\nGitHub Pages"
-  },
-  {
-    "objectID": "analytics.html#analytics-dashboard",
-    "href": "analytics.html#analytics-dashboard",
-    "title": "Website Analytics",
-    "section": "",
-    "text": "Google Analytics is connected to this website to monitor:\n\nWebsite visitors\nPage views\nTraffic sources\nDevice usage\nVisitor locations\nEngagement over time\n\nAs traffic grows, this page will be updated with screenshots and summaries of visitor trends."
   },
   {
     "objectID": "analytics.html#future-goals",
