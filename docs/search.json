@@ -1,5 +1,96 @@
 [
   {
+    "objectID": "analytics.html",
+    "href": "analytics.html",
+    "title": "Website Analytics",
+    "section": "",
+    "text": "This page provides insights into the performance and audience engagement of my portfolio website.\n\n\nThis portfolio was built using:\n\nQuarto\nRStudio\nGitHub\nGitHub Pages\n\n\n\n\nGoogle Analytics is connected to this website to monitor:\n\nWebsite visitors\nPage views\nTraffic sources\nDevice usage\nVisitor locations\nEngagement over time\n\nAs traffic grows, this page will be updated with screenshots and summaries of visitor trends.\n\n\n\n\nIncrease portfolio traffic through SEO\nTrack the most visited projects\nMonitor engagement from recruiters and employers\nImprove user experience based on visitor behavior"
+  },
+  {
+    "objectID": "analytics.html#about-this-website",
+    "href": "analytics.html#about-this-website",
+    "title": "Website Analytics",
+    "section": "",
+    "text": "This portfolio was built using:\n\nQuarto\nRStudio\nGitHub\nGitHub Pages"
+  },
+  {
+    "objectID": "analytics.html#analytics-dashboard",
+    "href": "analytics.html#analytics-dashboard",
+    "title": "Website Analytics",
+    "section": "",
+    "text": "Google Analytics is connected to this website to monitor:\n\nWebsite visitors\nPage views\nTraffic sources\nDevice usage\nVisitor locations\nEngagement over time\n\nAs traffic grows, this page will be updated with screenshots and summaries of visitor trends."
+  },
+  {
+    "objectID": "analytics.html#future-goals",
+    "href": "analytics.html#future-goals",
+    "title": "Website Analytics",
+    "section": "",
+    "text": "Increase portfolio traffic through SEO\nTrack the most visited projects\nMonitor engagement from recruiters and employers\nImprove user experience based on visitor behavior"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This page highlights my communication, marketing, and multimedia projects that demonstrate my skills in storytelling, presentation design, audience analysis, and strategic communication."
+  },
+  {
+    "objectID": "projects.html#aaa-baseball-team-branding-project",
+    "href": "projects.html#aaa-baseball-team-branding-project",
+    "title": "Projects",
+    "section": "AAA Baseball Team Branding Project",
+    "text": "AAA Baseball Team Branding Project\nOverview\nFor a sports communication course, my team created a fictional AAA baseball organization. We developed the team’s brand identity, target audience, promotional strategy, and visual marketing materials before presenting our proposal in Canva.\nSkills Demonstrated\n\nBrand development\nSports marketing\nAudience analysis\nPresentation design\nTeam collaboration\n\n\nInteractive Presentation\n\n\n\n\n\n Open the presentation in Canva ↗"
+  },
+  {
+    "objectID": "projects.html#marketing-initiative-for-bay-law-injury-attorneys",
+    "href": "projects.html#marketing-initiative-for-bay-law-injury-attorneys",
+    "title": "Projects",
+    "section": "Marketing Initiative for Bay Law Injury Attorneys",
+    "text": "Marketing Initiative for Bay Law Injury Attorneys\n\nOverview\nAs part of a marketing strategy course, my team conducted a marketing analysis for Bay Law Injury Attorneys, a personal injury law firm serving the Henderson and Las Vegas area. We evaluated the firm’s current marketing efforts, identified strengths and opportunities for improvement, and developed a year-long promotional strategy designed to increase brand awareness, customer engagement, and lead generation.\n\n\nMy Contributions\nFor this project, I was responsible for developing the Promotional Strategy section of the presentation. My work included researching digital and traditional marketing tactics, recommending social media and SEO initiatives, and creating a phased implementation plan to support long-term business growth.\n\n\nSkills Demonstrated\n\nMarketing Strategy\nPromotional Planning\nDigital Marketing\nSEO & PPC Strategy\nSocial Media Marketing\nAudience Analysis\nBusiness Communication\nTeam Collaboration\nProfessional Presentation Design\n\n\n\nFull Presentation\n\n\nDownload the full presentation"
+  },
+  {
+    "objectID": "projects.html#multimedia-journalism-story-cpp-ibw",
+    "href": "projects.html#multimedia-journalism-story-cpp-ibw",
+    "title": "Projects",
+    "section": "Multimedia Journalism Story: CPP IBW",
+    "text": "Multimedia Journalism Story: CPP IBW\nOverview:\nFor a multimedia journalism project, I worked with a partner to create a story about CPP’s Innovation Brew Works restaurant. The final report included written storytelling, photography, and multimedia elements.\nSkills Demonstrated:\n- Multimedia journalism - Written reporting - Visual storytelling - Video production - Photography - Collaboration\n\nWritten Report\n\n\nDownload the written report"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "This page highlights my education, professional experience, project experience, leadership, and technical skills.\n\n\nCalifornia State Polytechnic University, Pomona\nBachelor of Science in Business Administration - Marketing Management\nMinor: Communications - Multimedia Journalism\nExpected Graduation: May 2027\n\n\n\n\nMarketing Strategy\nCustomer Acquisition\nBrand Positioning\nAudience Segmentation\nInfluencer Strategy\nPerformance Marketing\nMultimedia Storytelling\n\n\n\n\n\nAdobe Creative Suite\nCanva\nCapCut\nFigma\nGoogle Workspace\nMicrosoft Excel\nTableau\nQuarto\nGitHub\n\n\n\n\n\n\nDownload Resume"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "",
+    "text": "California State Polytechnic University, Pomona\nBachelor of Science in Business Administration - Marketing Management\nMinor: Communications - Multimedia Journalism\nExpected Graduation: May 2027"
+  },
+  {
+    "objectID": "resume.html#professional-focus",
+    "href": "resume.html#professional-focus",
+    "title": "Resume",
+    "section": "",
+    "text": "Marketing Strategy\nCustomer Acquisition\nBrand Positioning\nAudience Segmentation\nInfluencer Strategy\nPerformance Marketing\nMultimedia Storytelling"
+  },
+  {
+    "objectID": "resume.html#technical-skills",
+    "href": "resume.html#technical-skills",
+    "title": "Resume",
+    "section": "",
+    "text": "Adobe Creative Suite\nCanva\nCapCut\nFigma\nGoogle Workspace\nMicrosoft Excel\nTableau\nQuarto\nGitHub"
+  },
+  {
+    "objectID": "resume.html#resume-pdf",
+    "href": "resume.html#resume-pdf",
+    "title": "Resume",
+    "section": "",
+    "text": "Download Resume"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Lola Hertsenberg",
@@ -40,68 +131,5 @@
     "title": "Lola Hertsenberg",
     "section": "Featured Areas",
     "text": "Featured Areas\n\nMarketing Analytics\nDigital Marketing\nMultimedia Journalism\nBrand Development\nContent Creation\nSports & Entertainment Marketing"
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
-    "section": "",
-    "text": "This page highlights my education, professional experience, project experience, leadership, and technical skills.\n\n\nCalifornia State Polytechnic University, Pomona\nBachelor of Science in Business Administration - Marketing Management\nMinor: Communications - Multimedia Journalism\nExpected Graduation: May 2027\n\n\n\n\nMarketing Strategy\nCustomer Acquisition\nBrand Positioning\nAudience Segmentation\nInfluencer Strategy\nPerformance Marketing\nMultimedia Storytelling\n\n\n\n\n\nAdobe Creative Suite\nCanva\nCapCut\nFigma\nGoogle Workspace\nMicrosoft Excel\nTableau\nQuarto\nGitHub\n\n\n\n\n\n\nDownload Resume"
-  },
-  {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Resume",
-    "section": "",
-    "text": "California State Polytechnic University, Pomona\nBachelor of Science in Business Administration - Marketing Management\nMinor: Communications - Multimedia Journalism\nExpected Graduation: May 2027"
-  },
-  {
-    "objectID": "resume.html#professional-focus",
-    "href": "resume.html#professional-focus",
-    "title": "Resume",
-    "section": "",
-    "text": "Marketing Strategy\nCustomer Acquisition\nBrand Positioning\nAudience Segmentation\nInfluencer Strategy\nPerformance Marketing\nMultimedia Storytelling"
-  },
-  {
-    "objectID": "resume.html#technical-skills",
-    "href": "resume.html#technical-skills",
-    "title": "Resume",
-    "section": "",
-    "text": "Adobe Creative Suite\nCanva\nCapCut\nFigma\nGoogle Workspace\nMicrosoft Excel\nTableau\nQuarto\nGitHub"
-  },
-  {
-    "objectID": "resume.html#resume-pdf",
-    "href": "resume.html#resume-pdf",
-    "title": "Resume",
-    "section": "",
-    "text": "Download Resume"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "This page highlights my communication, marketing, and multimedia projects that demonstrate my skills in storytelling, presentation design, audience analysis, and strategic communication."
-  },
-  {
-    "objectID": "projects.html#aaa-baseball-team-branding-project",
-    "href": "projects.html#aaa-baseball-team-branding-project",
-    "title": "Projects",
-    "section": "AAA Baseball Team Branding Project",
-    "text": "AAA Baseball Team Branding Project\nOverview\nFor a sports communication course, my team created a fictional AAA baseball organization. We developed the team’s brand identity, target audience, promotional strategy, and visual marketing materials before presenting our proposal in Canva.\nSkills Demonstrated\n\nBrand development\nSports marketing\nAudience analysis\nPresentation design\nTeam collaboration\n\n\nInteractive Presentation\n\n\n\n\n\n Open the presentation in Canva ↗"
-  },
-  {
-    "objectID": "projects.html#marketing-initiative-for-bay-law-injury-attorneys",
-    "href": "projects.html#marketing-initiative-for-bay-law-injury-attorneys",
-    "title": "Projects",
-    "section": "Marketing Initiative for Bay Law Injury Attorneys",
-    "text": "Marketing Initiative for Bay Law Injury Attorneys\n\nOverview\nAs part of a marketing strategy course, my team conducted a marketing analysis for Bay Law Injury Attorneys, a personal injury law firm serving the Henderson and Las Vegas area. We evaluated the firm’s current marketing efforts, identified strengths and opportunities for improvement, and developed a year-long promotional strategy designed to increase brand awareness, customer engagement, and lead generation.\n\n\nMy Contributions\nFor this project, I was responsible for developing the Promotional Strategy section of the presentation. My work included researching digital and traditional marketing tactics, recommending social media and SEO initiatives, and creating a phased implementation plan to support long-term business growth.\n\n\nSkills Demonstrated\n\nMarketing Strategy\nPromotional Planning\nDigital Marketing\nSEO & PPC Strategy\nSocial Media Marketing\nAudience Analysis\nBusiness Communication\nTeam Collaboration\nProfessional Presentation Design\n\n\n\nFull Presentation\n\n\nDownload the full presentation"
-  },
-  {
-    "objectID": "projects.html#multimedia-journalism-story-cpp-ibw",
-    "href": "projects.html#multimedia-journalism-story-cpp-ibw",
-    "title": "Projects",
-    "section": "Multimedia Journalism Story: CPP IBW",
-    "text": "Multimedia Journalism Story: CPP IBW\nOverview:\nFor a multimedia journalism project, I worked with a partner to create a story about CPP’s Innovation Brew Works restaurant. The final report included written storytelling, photography, and multimedia elements.\nSkills Demonstrated:\n- Multimedia journalism - Written reporting - Visual storytelling - Video production - Photography - Collaboration\n\nWritten Report\n\n\nDownload the written report"
   }
 ]

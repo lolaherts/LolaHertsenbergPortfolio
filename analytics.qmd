@@ -1,0 +1,36 @@
+---
+title: ""
+---
+
+# Website Analytics
+
+This page provides insights into the performance and audience engagement of my portfolio website.
+
+## About This Website
+
+This portfolio was built using:
+
+- Quarto
+- RStudio
+- GitHub
+- GitHub Pages
+
+## Analytics Dashboard
+
+Google Analytics is connected to this website to monitor:
+
+- Website visitors
+- Page views
+- Traffic sources
+- Device usage
+- Visitor locations
+- Engagement over time
+
+As traffic grows, this page will be updated with screenshots and summaries of visitor trends.
+
+## Future Goals
+
+- Increase portfolio traffic through SEO
+- Track the most visited projects
+- Monitor engagement from recruiters and employers
+- Improve user experience based on visitor behavior

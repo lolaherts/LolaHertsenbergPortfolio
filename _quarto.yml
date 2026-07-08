@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Lola Hertsenberg Portfolio"
+  google-analytics: "G-248WCPM8R9"
+
   navbar:
     left:
       - href: index.qmd
@@ -12,6 +14,8 @@ website:
         text: Projects
       - href: resume.qmd
         text: Resume
+      - href: analytics.qmd
+        text: Website Analytics
 format:
   html: 
     theme:
