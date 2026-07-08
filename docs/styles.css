@@ -1,0 +1,62 @@
+/* css styles */
+/* All headings black */
+h1, h2, h3, h4, h5, h6 {
+  color: #000000;
+}
+
+/* Normal text */
+p, li, td, th {
+  color: #000000;
+}
+/* Background */
+body {
+  background-color: #fff6fa;
+  color: #444;
+}
+
+/* Center only selected content */
+.center {
+  text-align: center;
+}
+
+/* Circular profile image */
+.profile-img {
+  display: block;
+  width: 180px;
+  height: 180px;
+  margin: 20px auto;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 5px solid #f8b7cd;
+}
+
+/* Headings */
+h1 {
+  color: #d96c9f;
+}
+
+h2 {
+  color: #4aa7a0;
+  margin-top: 40px;
+  border-bottom: 2px solid #f8b7cd;
+  padding-bottom: 5px;
+}
+
+h3 {
+  color: #d96c9f;
+}
+
+/* Links */
+a {
+  color: #4aa7a0;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #bdebe5;
+}
+
+.navbar a,
+.navbar-brand {
+  color: #444 !important;
+}
